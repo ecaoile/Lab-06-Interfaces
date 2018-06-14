@@ -8,5 +8,9 @@ namespace Lab_06_Interfaces.Classes.Mammal
     {
         public override bool CanPet { get; set; } = false;
         public override bool AvoidHumans { get; set; } = true;
+        public override string Sound()
+        {
+            return "Growl, hiss, purr!";
+        }
     }
 }

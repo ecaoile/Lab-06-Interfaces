@@ -11,9 +11,15 @@ namespace Lab_06_Interfaces.Classes.Fish
         public bool IsNocturnal { get; set; } = true;
         public bool CanBreatheUnderwater { get; set; } = true;
         public string SwimSpeed { get; set; } = "15 mph";
+
         public override string Sushify()
         {
             return "yummy";
+        }
+
+        public string Electrocute()
+        {
+            return "Zzzzt!";
         }
     }
 }
