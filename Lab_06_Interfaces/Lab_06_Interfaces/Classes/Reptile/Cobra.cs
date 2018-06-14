@@ -11,7 +11,7 @@ namespace Lab_06_Interfaces.Classes.Reptile
 
         public string InjectPoison()
         {
-            return "poison";
+            return ">:F";
         }
 
     }

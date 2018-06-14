@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using Lab_06_Interfaces.Interface;
+
 namespace Lab_06_Interfaces.Classes.Bird
 {
     class Penguin : NonFlying, ISwim
