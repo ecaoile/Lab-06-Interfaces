@@ -7,6 +7,6 @@ namespace Lab_06_Interfaces.Interface
     interface ISwim
     {
         string SwimSpeed { get; set; }
-        bool CanBreathUnderWater { get; set; }
+        bool CanBreatheUnderwater { get; set; }
     }
 }

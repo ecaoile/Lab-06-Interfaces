@@ -9,7 +9,7 @@ namespace Lab_06_Interfaces.Classes.Fish
     {
         public override bool IsWarmBlooded { get; set; } = false;
         public string SwimSpeed { get; set; } = "30 mph";
-        public bool CanBreathUnderWater { get; set; } = true;
+        public bool CanBreatheUnderwater { get; set; } = true;
         public string FlipMeOver()
         {
             return "RIP";
