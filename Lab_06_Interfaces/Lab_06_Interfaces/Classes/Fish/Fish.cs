@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lab_06_Interfaces.Classes.Fish
 {
-    abstract class Fish : Animal 
+    abstract class Fish : Animal
     {
         public virtual bool HasScales { get; set; } = true;
         public virtual bool HasGills { get; set; } = true;
