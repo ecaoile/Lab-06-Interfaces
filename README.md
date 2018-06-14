@@ -5,7 +5,7 @@ CODE: Interfaces assignment Code Fellows 401 C#/ASP.NET course
 **Version**: 1.0.0
 
 ## Overview
-This console app shows a list of animals in order to demonstrate the 4 OOP principles.
+This console app creates list of animals in order to demonstrate the 4 OOP principles.
 
 ## Getting Started
 The following is required to run the program.
@@ -13,13 +13,8 @@ The following is required to run the program.
 2. The .NET desktop development workload enabled
 3. No External NuGet packages are required for this application. 
 
-## Example
+## Visual
 ![Lab 06 Screenshot](Lab06-SS.jpg)
-
-## Program Path
- - enter two names for game
- - choose spaces to place to marker
- - after game, decide to play a new game or quit
 
 
 ## Architecture
