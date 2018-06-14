@@ -6,7 +6,7 @@ namespace Lab_06_Interfaces.Classes.Bird
 {
     class Owl : Flying
     {
-        public virtual bool IsNocturnal { get; set; } = true;
+        public bool IsNocturnal { get; set; } = true;
 
         public string BinocularVision()
         {

@@ -7,7 +7,7 @@ namespace Lab_06_Interfaces.Classes.Mammal
     class Tiger : Feline
     {
         public override bool AvoidHumans { get; set; } = true;
-        public virtual bool IsStriped {get; set;} = true;
+        public bool IsStriped {get; set;} = true;
 
         public string FrostedFlakes()
         {

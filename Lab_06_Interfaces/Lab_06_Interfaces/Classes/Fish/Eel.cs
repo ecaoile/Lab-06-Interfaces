@@ -7,7 +7,7 @@ namespace Lab_06_Interfaces.Classes.Fish
     class Eel : Cartilaginous
     {
         public override bool IsWarmBlooded { get; set; } = false;
-        public virtual bool IsNocturnal { get; set; } = true;
+        public bool IsNocturnal { get; set; } = true;
 
         public override string Sushify()
         {
