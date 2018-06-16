@@ -1,0 +1,11 @@
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\Lab_06_Interfaces\bin\Debug\netcoreapp2.0\Lab_06_Interfaces.deps.json
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\Lab_06_Interfaces\bin\Debug\netcoreapp2.0\Lab_06_Interfaces.runtimeconfig.json
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\Lab_06_Interfaces\bin\Debug\netcoreapp2.0\Lab_06_Interfaces.runtimeconfig.dev.json
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\Lab_06_Interfaces\bin\Debug\netcoreapp2.0\Lab_06_Interfaces.dll
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\Lab_06_Interfaces\bin\Debug\netcoreapp2.0\Lab_06_Interfaces.pdb
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\Lab_06_Interfaces\obj\Debug\netcoreapp2.0\Lab_06_Interfaces.csprojAssemblyReference.cache
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\Lab_06_Interfaces\obj\Debug\netcoreapp2.0\Lab_06_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\Lab_06_Interfaces\obj\Debug\netcoreapp2.0\Lab_06_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\Lab_06_Interfaces\obj\Debug\netcoreapp2.0\Lab_06_Interfaces.AssemblyInfo.cs
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\Lab_06_Interfaces\obj\Debug\netcoreapp2.0\Lab_06_Interfaces.dll
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\Lab_06_Interfaces\obj\Debug\netcoreapp2.0\Lab_06_Interfaces.pdb

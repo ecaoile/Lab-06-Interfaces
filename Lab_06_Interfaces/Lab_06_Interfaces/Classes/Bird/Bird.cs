@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lab_06_Interfaces.Classes.Bird
 {
-    abstract class Bird : Animal
+    public abstract class Bird : Animal
     {
         public abstract bool CanFly { get; set; }
         public bool HasFeathers { get; set; } = true;

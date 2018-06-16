@@ -1,0 +1,17 @@
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\obj\Debug\netcoreapp2.0\XUnitTestLab06.csprojAssemblyReference.cache
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\obj\Debug\netcoreapp2.0\XUnitTestLab06.csproj.CoreCompileInputs.cache
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\obj\Debug\netcoreapp2.0\XUnitTestLab06.AssemblyInfoInputs.cache
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\obj\Debug\netcoreapp2.0\XUnitTestLab06.AssemblyInfo.cs
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\bin\Debug\netcoreapp2.0\XUnitTestLab06.deps.json
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\bin\Debug\netcoreapp2.0\XUnitTestLab06.runtimeconfig.json
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\bin\Debug\netcoreapp2.0\XUnitTestLab06.runtimeconfig.dev.json
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\bin\Debug\netcoreapp2.0\XUnitTestLab06.dll
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\bin\Debug\netcoreapp2.0\XUnitTestLab06.pdb
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\bin\Debug\netcoreapp2.0\Lab_06_Interfaces.dll
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\bin\Debug\netcoreapp2.0\Lab_06_Interfaces.pdb
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\obj\Debug\netcoreapp2.0\XUnitTestLab06.csproj.CopyComplete
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\obj\Debug\netcoreapp2.0\XUnitTestLab06.dll
+C:\Users\Unfie\codefellows\401\Lab-06-Interfaces\Lab_06_Interfaces\XUnitTestLab06\obj\Debug\netcoreapp2.0\XUnitTestLab06.pdb

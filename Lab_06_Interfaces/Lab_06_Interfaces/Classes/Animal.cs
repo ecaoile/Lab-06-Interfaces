@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lab_06_Interfaces.Classes
 {
-    abstract class Animal
+    public abstract class Animal
     {
         public string ZooName { get; set; } = "Code Fellows Zoo";
         public abstract bool IsWarmBlooded { get; set; }

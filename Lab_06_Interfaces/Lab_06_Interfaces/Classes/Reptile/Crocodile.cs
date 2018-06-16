@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lab_06_Interfaces.Classes.Reptile
 {
-    class Crocodile : Reptile
+    public class Crocodile : Reptile
     {
         public override bool HasTeeth { get; set; } = true;
 
