@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lab_06_Interfaces.Classes.Mammal
 {
-    class Tiger : Feline
+    public class Tiger : Feline
     {
         public override bool AvoidHumans { get; set; } = true;
         public bool IsStriped {get; set;} = true;

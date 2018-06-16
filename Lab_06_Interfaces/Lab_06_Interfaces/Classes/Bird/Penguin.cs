@@ -5,7 +5,7 @@ using Lab_06_Interfaces.Interface;
 
 namespace Lab_06_Interfaces.Classes.Bird
 {
-    class Penguin : NonFlying, ISwim
+    public class Penguin : NonFlying, ISwim
     {
         public bool IsCounterShaded { get; set; } = true;
         public override bool HasWings { get; set; } = false;
@@ -16,6 +16,11 @@ namespace Lab_06_Interfaces.Classes.Bird
         {
             return "thump";
         }
-     
+
+        public string Swim()
+        {
+            return "swimming";
+        }
+
     }
 }

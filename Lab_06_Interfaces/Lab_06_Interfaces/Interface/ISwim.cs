@@ -8,5 +8,6 @@ namespace Lab_06_Interfaces.Interface
     {
         string SwimSpeed { get; set; }
         bool CanBreatheUnderwater { get; set; }
+        string Swim();
     }
 }
